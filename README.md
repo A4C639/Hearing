@@ -1,2 +1,0 @@
-# coordinatorlayout
-coordinatorlayout test
